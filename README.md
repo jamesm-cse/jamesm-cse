@@ -1,4 +1,4 @@
-James Marah - Customer Support Engineer 
+James Marah - Customer Support Engineer @ TeamSense
 
 <!---
 jamesm-cse/jamesm-cse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
